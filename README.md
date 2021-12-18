@@ -1,5 +1,5 @@
 # DotNetAuthentication
-a simple .net open source authentication library
+a simple .NET open source authentication library with AES encryption and post request.
 
 # Example Of Program
 ```C#
